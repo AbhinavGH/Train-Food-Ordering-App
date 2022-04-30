@@ -1,4 +1,4 @@
-Cupcake app
+Train Food Ordering App
 =================================
 
 This app contains an order flow for orders to be given on Trains.
