@@ -14,5 +14,5 @@ Features
 ---------------
 1. Works completely offline
 2. Has 5 interactive screens
-3.Saves your login info so that you don't have to login again and again
+3. Saves your login info so that you don't have to login again and again
 4. Sends order details through SMS
